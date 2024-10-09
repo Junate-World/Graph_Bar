@@ -1,0 +1,20 @@
+Python bytecode
+pycache/ *.py[cod]
+
+Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+Excel files (if you don't want to track them)
+*.xlsx
+
+Environment variables
+.env
+
+Log files
+*.log
+
+Other IDE settings
+.idea/ .vscode/
+
+
+
